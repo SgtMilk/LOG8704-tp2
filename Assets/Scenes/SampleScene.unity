@@ -1220,7 +1220,7 @@ MonoBehaviour:
       m_Calls: []
   m_SerializedLibrary: {fileID: 11400000, guid: 60466c235cf5743a7a3da4172d213a29, type: 2}
   m_MaxNumberOfMovingImages: 1
-  m_TrackedImagePrefab: {fileID: 4922582553321831162, guid: 76f3439a0ae796e4b81bee3f91f888ee, type: 3}
+  m_TrackedImagePrefab: {fileID: 5883155896844355918, guid: 4f47c4b66e4984cc3a9d998e813b4a50, type: 3}
 --- !u!1 &331264289 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2512387469002778309, guid: 48cb3fb68c91eb94999fd99957eb0cae, type: 3}
@@ -1471,13 +1471,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CameraToFace: {fileID: 0}
   m_ObjectPrefabs:
-  - {fileID: 8986328500875594450, guid: d825bbdf58c379d4290da92e387f71d0, type: 3}
-  - {fileID: 7657548977611231357, guid: 3cbfcd4079a5031478389d5ab3c8c311, type: 3}
-  - {fileID: 3555902977704940904, guid: 23412048bf4821d4f8bf5c7d9c1abd5b, type: 3}
-  - {fileID: 5419581123709780336, guid: aaf6326249753074fbc1148303020f26, type: 3}
-  - {fileID: 7279467769842343898, guid: b1b37ac0eaa6a9a4785fc1f26065e8b3, type: 3}
-  - {fileID: 3745605318107395163, guid: daca7e1cd0a975941a64a8a9cbd8e5e5, type: 3}
-  - {fileID: 2668992677333385299, guid: 98cdacc32bf0d8d469092762a7263c4b, type: 3}
+  - {fileID: 8073443194988779917, guid: ed494828337814fe68ace7110695b148, type: 3}
+  - {fileID: 7402009758359158996, guid: 67c1ee6c6454f486497a33a28a410a5f, type: 3}
+  - {fileID: 2629182449500102118, guid: 9c2612f94f14e4775bc942963d020664, type: 3}
+  - {fileID: 3851015956068934394, guid: a2dfaff25e58843e49fde1d0d84449da, type: 3}
+  - {fileID: 6397291155531275063, guid: f70417b4c82af4d109555a9b2444acf4, type: 3}
+  - {fileID: 1527881004230699645, guid: 95eede6de9502409491c79ffdfe3df5a, type: 3}
+  - {fileID: 3308162198220175456, guid: bae362a82dc9a4413bb397d57e3c33fc, type: 3}
   m_SpawnVisualizationPrefab: {fileID: 0}
   m_SpawnOptionIndex: 0
   m_OnlySpawnInView: 1
@@ -1495,7 +1495,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 237852452}
