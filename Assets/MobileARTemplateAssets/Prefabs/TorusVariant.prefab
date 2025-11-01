@@ -23,7 +23,7 @@ PrefabInstance:
     - target: {fileID: 3141529441589109698, guid: 8ae99c55d89c449b4be74f60dc81e02b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 83eabfe673263a445972586e5d8b56ee, type: 2}
+      objectReference: {fileID: 2100000, guid: f6730b960ba6c914e9141395fc93249f, type: 2}
     - target: {fileID: 5923104921834008719, guid: 8ae99c55d89c449b4be74f60dc81e02b, type: 3}
       propertyPath: m_Name
       value: TorusVariant
@@ -32,6 +32,10 @@ PrefabInstance:
       propertyPath: m_MinScale
       value: 0.3
       objectReference: {fileID: 0}
+    - target: {fileID: 7461212808914349144, guid: 8ae99c55d89c449b4be74f60dc81e02b, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -6345163249764356977, guid: 31d2c91682ac6f045b4b75ebf27e5d77, type: 3}
     - target: {fileID: 7784342881662376316, guid: 8ae99c55d89c449b4be74f60dc81e02b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

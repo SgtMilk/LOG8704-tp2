@@ -15,7 +15,7 @@ PrefabInstance:
     - target: {fileID: 1499404406695200139, guid: 5642b79498b10465fa9219ba4682355b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 83eabfe673263a445972586e5d8b56ee, type: 2}
+      objectReference: {fileID: 2100000, guid: f6730b960ba6c914e9141395fc93249f, type: 2}
     - target: {fileID: 2226151815249716054, guid: 5642b79498b10465fa9219ba4682355b, type: 3}
       propertyPath: m_Convex
       value: 1
@@ -72,6 +72,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PyramidVariant
       objectReference: {fileID: 0}
+    - target: {fileID: 8254710125486475480, guid: 5642b79498b10465fa9219ba4682355b, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1172191465821915620, guid: 0c0f883d7bc25dd4d84c3c7795a4a332, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

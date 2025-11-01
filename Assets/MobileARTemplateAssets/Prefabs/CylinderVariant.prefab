@@ -15,7 +15,7 @@ PrefabInstance:
     - target: {fileID: 4517597861620706814, guid: 894d54703eb1549009ad9f909fc154d7, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 83eabfe673263a445972586e5d8b56ee, type: 2}
+      objectReference: {fileID: 2100000, guid: f6730b960ba6c914e9141395fc93249f, type: 2}
     - target: {fileID: 5020066889803225253, guid: 894d54703eb1549009ad9f909fc154d7, type: 3}
       propertyPath: m_ColorPropertyName
       value: _BaseColor
@@ -28,6 +28,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CylinderVariant
       objectReference: {fileID: 0}
+    - target: {fileID: 5390909742045731999, guid: 894d54703eb1549009ad9f909fc154d7, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -3921017659700672045, guid: a2ef474392ac74f409c70c61ccb6c24a, type: 3}
     - target: {fileID: 8363725805574643114, guid: 894d54703eb1549009ad9f909fc154d7, type: 3}
       propertyPath: m_Convex
       value: 1

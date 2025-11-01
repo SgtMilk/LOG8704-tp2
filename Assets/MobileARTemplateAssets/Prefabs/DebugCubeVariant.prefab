@@ -8,6 +8,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2368844185009992940, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368844185009992940, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368844185009992940, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 4183465048131118092, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -67,13 +79,18 @@ PrefabInstance:
     - target: {fileID: 7162684294255795646, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 83eabfe673263a445972586e5d8b56ee, type: 2}
+      objectReference: {fileID: 2100000, guid: f6730b960ba6c914e9141395fc93249f, type: 2}
     - target: {fileID: 7190559763459483146, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
       propertyPath: m_Name
       value: DebugCubeVariant
       objectReference: {fileID: 0}
+    - target: {fileID: 8644809090217711050, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4375777618007034134, guid: 8739604ff156c91408e3f6352de03dbc, type: 3}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3132565783757306887, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cec25213e5ba74da1ae7d3e2036e000d, type: 3}
